@@ -21,7 +21,7 @@ focus:
   - GenAI Applications & Agentic AI Systems
   - RAG Pipelines · LangChain · LangGraph
   - Distributed Systems · Spring Boot
-  - Competitive Programming → Candidate Master (CF)
+  - Competitive Programming
 achievements:
   - AIR 3874 · GATE 2024
   - 98.6 Percentile · JEE Mains 2020
