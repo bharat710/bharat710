@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=M.Tech+CS+%40+IIIT+Hyderabad;GenAI+%26+Agentic+AI+Engineer;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Competitive+Programmer+%E2%86%92+Candidate+Master;Spring+Boot+%7C+Distributed+Systems;AIR+3874+%E2%80%A2+GATE+2024+%F0%9F%8E%AF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=M.Tech+CS+%40+IIIT+Hyderabad;B.E.+EEE+%40+BITS+Hyderabad;Software+Dev+%7C+AI%2FML+%7C+Backend+Systems;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Competitive+Programmer+%E2%86%92+Candidate+Master;Spring+Boot+%7C+Distributed+Systems;AIR+3874+%E2%80%A2+GATE+2024+%F0%9F%8E%AF" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,11 +16,13 @@
 
 ```yaml
 name: Bharat Kumar Majeti
-role: M.Tech CS · IIIT Hyderabad
-focus:
-  - GenAI Applications & Agentic AI Systems
-  - RAG Pipelines · LangChain · LangGraph
-  - Distributed Systems · Spring Boot
+education:
+  - M.Tech CS · IIIT Hyderabad
+  - B.E. Electrical & Electronics · BITS Hyderabad
+interests:
+  - Software Development & System Design
+  - AI/ML · RAG Pipelines · LangChain · LangGraph
+  - Backend Systems · Spring Boot · Distributed Systems
   - Competitive Programming
 achievements:
   - AIR 3874 · GATE 2024
